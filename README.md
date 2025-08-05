@@ -46,11 +46,7 @@ Este proyecto fue desarrollado utilizando un stack tecnológico moderno basado e
 
 ## 📸 Capturas de Pantalla
 
-_Añade aquí 2 o 3 de las capturas de pantalla más representativas de tu aplicación. Para ello, simplemente arrastra el archivo de imagen desde tu ordenador y suéltalo en el editor de texto de GitHub. Se subirá y se insertará automáticamente._
 
-<!-- Ejemplo de cómo quedará una vez insertes una imagen:
-![Pantalla de Ejecución](https://github.com/TuUsuario/TFG-6MWT-App-Android/blob/main/captura-ejecucion.png?raw=true)
--->
 
 ---
 
