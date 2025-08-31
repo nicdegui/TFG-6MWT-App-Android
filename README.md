@@ -41,13 +41,6 @@ Este proyecto fue desarrollado utilizando un stack tecnológico moderno basado e
 *   **Comunicación:** API nativa de Android para [Bluetooth Low Energy (BLE)](https://developer.android.com/guide/topics/connectivity/bluetooth/ble)
 *   **Gráficas:** [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 *   **PDF:** API nativa de Android (`PdfDocument` y `Canvas`)
-
----
-
-## 📸 Capturas de Pantalla
-
-
-
 ---
 
 ## 👤 Autor
